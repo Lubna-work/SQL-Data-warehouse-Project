@@ -14,6 +14,7 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 
 3-Gold Layer: This top layer contains business-ready data that is structured into a star schema, making it ideal for efficient reporting and analytics.
 
+
 📖 Project Overview
 this project demonstrate the following:
 
